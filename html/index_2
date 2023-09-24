@@ -7,6 +7,17 @@
     <title>HardWorkers</title>
 </head>
 <body>
+    <header>
+        <ul>
+            <li><a style="color: blue;" href="index.html">Страница 1</a></li>
+            <li><a style="color: blue;" href="index_2.html">Страница 2</a></li>
+        </ul>
+    </header>
+    <style>
+        body {
+            background-color: rgba(181, 187, 192, 0.959);
+        }
+    </style>
     
 </body>
 </html>
